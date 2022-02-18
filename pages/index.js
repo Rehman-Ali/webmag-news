@@ -13,7 +13,8 @@ export default function Home() {
 
 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700%7CNunito:300,600" rel="stylesheet"/>
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4071385724521129"
+     crossorigin="anonymous"></script>
 
 {/* <script>(function(w,d){!function(a,e,t,r,z){a.zarazData=a.zarazData||{},a.zarazData.executed=[],a.zarazData.tracks=[],a.zaraz={deferred:[]};var s=e.getElementsByTagName("title")[0];s&&(a.zarazData.t=e.getElementsByTagName("title")[0].text),a.zarazData.w=a.screen.width,a.zarazData.h=a.screen.height,a.zarazData.j=a.innerHeight,a.zarazData.e=a.innerWidth,a.zarazData.l=a.location.href,a.zarazData.r=e.referrer,a.zarazData.k=a.screen.colorDepth,a.zarazData.n=e.characterSet,a.zarazData.o=(new Date).getTimezoneOffset(),a.dataLayer=a.dataLayer||[],a.zaraz.track=(e,t)=>{for(key in a.zarazData.tracks.push(e),t)a.zarazData["z_"+key]=t[key]},a.zaraz._preSet=[],a.zaraz.set=(e,t,r)=>{a.zarazData["z_"+e]=t,a.zaraz._preSet.push([e,t,r])},a.dataLayer.push({"zaraz.start":(new Date).getTime()}),a.addEventListener("DOMContentLoaded",(()=>{var t=e.getElementsByTagName(r)[0],z=e.createElement(r);z.defer=!0,z.src="../../cdn-cgi/zaraz/sd0d9.html?z="+btoa(encodeURIComponent(JSON.stringify(a.zarazData))),t.parentNode.insertBefore(z,t)}))}(w,d,0,"script")})(window,document);</script> */}
 
@@ -347,11 +348,11 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="aside-widget text-center">
+        {/* <div className="aside-widget text-center">
           <a href="#" style={{display: 'inline-block', margin: 'auto'}}>
             <img className="img-responsive" src="img/xad-1.jpg.pagespeed.ic.C1dNWPxojd.jpg" alt />
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   </div>
@@ -481,7 +482,7 @@ Though beaches a now open, a popular charity swim scheduled for Sunday has been 
         </div>
       </div>
       <div className="col-md-4">
-        <div className="aside-widget text-center">
+        {/* <div className="aside-widget text-center">
           <a href="#" style={{display: 'inline-block', margin: 'auto'}}>
             <img className="img-responsive" src="img/xad-1.jpg.pagespeed.ic.C1dNWPxojd.jpg" alt />
           </a>
@@ -500,7 +501,7 @@ Though beaches a now open, a popular charity swim scheduled for Sunday has been 
           <a href="#" style={{display: 'inline-block', margin: 'auto'}}>
             <img className="img-responsive" src="img/xad-1.jpg.pagespeed.ic.C1dNWPxojd.jpg" alt />
           </a>
-        </div>
+        </div> */}
         <div className="aside-widget">
           <div className="section-title">
             {/* <h2>Catagories</h2> */}
