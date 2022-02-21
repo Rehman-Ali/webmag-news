@@ -132,6 +132,10 @@ const Home = () => {
             </div>
           </div>
         </div>
+
+
+
+        
         <div className="col-md-4">
           <div className="post">
             <a className="post-img" href="blog-post.html"><img src="img/xpost-5.jpg.pagespeed.ic.tcaqbxStTb.jpg" alt /></a>
